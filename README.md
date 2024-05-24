@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<a href="https://app.daily.dev/visuworld"><img src="https://api.daily.dev/devcards/v2/V1Ji4hBJDh8z58m8GaUH4.png?type=default&r=liu" width="356" alt="Vishal Yadav's Dev Card"/></a>
 <!---
 visuworld/visuworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
